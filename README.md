@@ -1,4 +1,4 @@
-# WEB2040-Agile
+# WEB3000-Agile
 
   This course will involve finding a product we can build for the FVI staff. The first week  will involve agile practices and concepts, in addition to git workflow mastery  The last two weeks will entail executing a simple project. This course will have a strong focus on learning to adapt quickly to changing customer needs. If there is student demand, as well as aptitude, an advanced framework or mobile platform such as React or Ionic will be chosen. This course is modeled after [BerkelyX's Agile Course](https://courses.edx.org/courses/course-v1:BerkeleyX+CS169.1x+3T2015SP/c)
 
@@ -39,7 +39,7 @@
 ### Day Three: Git Workflows II  
   1. Branching and tagging: More on managing branches as well as versioning through tags.
   2. Rebasing: Edit your commits through the use of interactive rebase
-  3. Stashing: The 'undo' of git. Manage multiple stages with stash. 
+  3. Stashing: The 'undo' of git. Manage multiple stages with stash.
 
 ### Day Four: Javascript Unit-Testing  
 1. Introduction to Unit-Testing: This stage covers different kinds of automated testing, especially “unit testing”. You'll learn what a unit test is, when you should write them, and why having unit tests is so useful.
