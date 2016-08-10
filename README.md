@@ -6,12 +6,14 @@
 
 1. Agile principles, scrum, decision making, BDD, TDD
 2. Write first user story and turn into a passing unit test
-3. Git Staging and Remotes
-4. Cloning and Branching
-5. Collaboration basics
-6. Branching
-7. Rebasing, merging and resolving conflicts
-8. Learning how to complete chores in order to complete a user story.
+3. Optimizing tests
+4. Outputing passing tests to stakeholders
+5. Git Staging and Remotes
+6. Cloning and Branching
+7. Collaboration basics
+8. Branching
+9. Rebasing, merging and resolving conflicts
+10. Learning how to complete chores in order to complete a user story.
 
 ## Homework
 1. Answer the follow up questions from the following lectures:
