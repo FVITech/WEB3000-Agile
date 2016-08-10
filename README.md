@@ -22,6 +22,7 @@
   - [BDD and User Stories](https://youtu.be/duUIq-KTLq8)
   - [Agile Cost Estimation](https://youtu.be/8ZoytqaIbss)
   </br>
+
 2. Complete [Treehouse Unit Testing ](https://teamtreehouse.com/library/javascript-unit-testing)
 3. Complete [Code School Try Git](https://www.codeschool.com/courses/try-git)
 4. Find tutorials or read documentation to complete assigned user stories.
