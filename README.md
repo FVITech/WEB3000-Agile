@@ -41,27 +41,42 @@
   3. Stashing: The 'undo' of git. Manage multiple stages with stash.
 
 ### Day Four: Pair Programming, Javascript deep dive 
-1. Introduction to pair programming.
-2. Pair programming practice.
-3. JavaScript - Thread, execution and Call stack. The student will walk through Javascript execution on the whiteboard with the professor. Additionally, each student should be able to "execute code" on their own on the whiteboard. The goal is to create a deeper understanding of how JS works under the cover, and begin the process of improving the students technical communication, problem solving ability with code. 
-4. Student challenges. Once completed, the students should be able to walk through the execution of the challenges on the whiteboard. The professor should test this at random with the students.
+  1. Introduction to pair programming.
+  2. Pair programming practice.
+  3. JavaScript - Thread, execution and Call stack. The student will walk through Javascript execution on the whiteboard with the professor. Additionally, each student should be able to "execute code" on their own on the whiteboard. The goal is to create a deeper understanding of how JS works under the cover, and begin the process of improving the students technical communication, problem solving ability with code. 
+  4. Student challenges. Once completed, the students should be able to walk through the execution of the challenges on the whiteboard. The professor should test this at random with the students.
 
 ### Day 5: 
-1. Callbacks and Higher order functions
-2. Student challenges: pair programming
-3. Review as with 3 and 4 in Day 4.
+  1. Callbacks and Higher order functions
+  2. Student challenges: pair programming
+  3. Review as with #3 and #4 in Day 4.
 
 ### Day 6:
-1. Continue Challenges from Day 5.
-2. Closure lecture, and technical explanation with walkthrough
-3. Closure challenges: pair programming
-4. Review as with 3 and 4 in day 4.
+  1. Continue Challenges from Day 5.
+  2. Closure lecture, and technical explanation with walkthrough
+  3. Closure challenges: pair programming
+  4. Review as with #3 and #4 in day 4.
 
 ### Day 7:
-1. Continue challenges from Day 6.
-2. Aynchronous Javascript lecture and technical explanation with walkthrough
-3. Student challenges: pair programming
-4. Review as with 3 and 4 in Day 4. 
+  1. Continue challenges from Day 6.
+  2. Quiz
+
+### Day 8:
+  1. Quiz review and walkthrough
+  2. Aynchronous Javascript lecture and technical explanation with walkthrough
+  3. Student challenges: pair programming
+  4. Review as with #3 and #4 in Day 4. 
+
+### Day 9:
+  1. Continue challenges from Day 7
+  2. Object Oriented Programming: Approaches to OOP
+  3. Student challenges: pair programming
+  4. Review as with #3 and #4 in Day 4.
+
+### Day 10:
+  1. Continue challenges from Day 8
+  2. Student technical walkthroughs and code reviews
+  3. Review as with #3 and #4 in Day 4.   
 
 ---
 ## Todo:
