@@ -26,21 +26,21 @@
 3. Complete [Code School Try Git](https://www.codeschool.com/courses/try-git)
 4. Find tutorials or read documentation to complete assigned user stories.
 
-### Day One: Agile Fundamentals
+### Day 1: Agile Fundamentals
   1. Introduction to Agile principles:Go through a mock iteration from user story, to passing test, to deployment. Have the student do their own.
   2. Introduction to git and version control systems
 
-### Day Two: Git Workflows I
+### Day 2: Git Workflows I
   1. Git Staging and Remotes: Have the student modify and revert changes on their own repo in the staging life-cycle.
   2. Git Clone and Branching: Find a open source project of interest. Read the documentation, clone and implement and implement a local version.  Have student create a branch, modify, make changes and then merge back into master, then delete the branch locally and remotely.
   3. Collaboration Fundamentals: Have students all try to create branches on each others master and then merge each others branches. Manage remote and local branches.
 
-### Day Three: Git Workflows II  
+### Day 3: Git Workflows II  
   1. Branching and tagging: More on managing branches as well as versioning through tags.
   2. Rebasing: Edit your commits through the use of interactive rebase
   3. Stashing: The 'undo' of git. Manage multiple stages with stash.
 
-### Day Four: Pair Programming, Javascript deep dive 
+### Day 4: Pair Programming, Javascript deep dive 
   1. Introduction to pair programming.
   2. Pair programming practice.
   3. JavaScript - Thread, execution and Call stack. The student will walk through Javascript execution on the whiteboard with the professor. Additionally, each student should be able to "execute code" on their own on the whiteboard. The goal is to create a deeper understanding of how JS works under the cover, and begin the process of improving the students technical communication, problem solving ability with code. 
@@ -76,8 +76,22 @@
 ### Day 10:
   1. Continue challenges from Day 8
   2. Student technical walkthroughs and code reviews
-  3. Review as with #3 and #4 in Day 4.   
+  3. Review as with #3 and #4 in Day 4.
+
+### Day 11:
+  1. Begin POJ project for class
+  2. Daily project overview and code reviews.
+
+### Day 12:
+  1. Project continues
+  2. Daily project overview and code reviews.
+
+### Day 13:    
+  1. Project continues
+  2. Daily project overview and code reviews.
+
+### Day 14:
+  1. Project is due
+  2. Final Exam
 
 ---
-## Todo:
-- [ ] Have student just push her/his branch independent of master state
